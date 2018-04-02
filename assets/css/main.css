@@ -2808,6 +2808,7 @@ button:disabled,
     }
     /* Main */
     .main .image.primary {
+        display: none;
         margin: 0 0 4em 0;
     }
     .main .container {
